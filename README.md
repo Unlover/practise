@@ -10,7 +10,8 @@ main.py
 - название файла шаблона(возможно название файла с ПОЛНЫМ путём)  
 - имя директории куда будут сохранятся заполненные шаблоны(возможно указание с ПОЛНЫМ путём, также стоит учитывать, что если данной директории нет, то он ее создаст, если это возможно)
 
-Примеры для запуска:
+# Примеры для запуска:
 
-python main.py test.xlsx test2.docx new3
-python main.py С:\\folder\folder\test.xlsx D:\\folder\folder2\test2.docx С:\\another\folder2\new3
+- python main.py test.xlsx test2.docx new3
+
+- python main.py С:\\folder\folder\test.xlsx D:\\folder\folder2\test2.docx С:\\another\folder2\new3
